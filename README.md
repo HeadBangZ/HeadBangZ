@@ -1,1 +1,3 @@
-# HeadBangZ Config files Vim, Git, etc
+Hey,
+
+I'm Thomas Nordvig Hermansen

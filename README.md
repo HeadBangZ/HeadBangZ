@@ -8,4 +8,6 @@ As a dedicated software developer, I specialize in creating scalable and robust 
 
 Always open to new opportunities and innovations, I enjoy expanding my skill set and applying my knowledge to diverse projects.
 
-Currently I focus on learning Kubernetes and Apache Kafka.
+Currently I focus on learning Kubernetes.
+
+Next I want to learn the ELK (Elastic Search, Logstash, Kibana) and Apache Kafka
